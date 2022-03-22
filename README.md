@@ -21,4 +21,4 @@ Python's time module provides various time-related functions. We are going to ut
 
 * For large scale computations, GPUs give us speed-ups even better than numpy !
 
-# Thanks
+# Thanks :)
